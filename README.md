@@ -1,5 +1,6 @@
 <style>
 body {
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11,8 +12,11 @@ body {
 }
 </style>
 
-- Im currently working on a few projects using Java and C++
-- Also a robot programmer in FRC team 1678
+<div>
+    <p>Tom Zhang </p>
+    <p> Im currently working on a few projects using Java and C++ </p>
+    <p> Also a robot programmer in FRC team 1678 </p>
+</div>
 
 <!--
 **Shuzhengz/Shuzhengz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
