@@ -10,8 +10,8 @@ html {
   
   .wrap-image {
     position: relative;
-    &::before,
-    &::after {
+    wrap-image::before,
+    wrap-image::after {
       content: "";
       width: 100%;
       height: 100%;
@@ -20,24 +20,27 @@ html {
       border: 2px solid white;
       transition: all .25s ease-out;
     }
-    &::before {
+    
+    wrap-image::before {
       background-color: white;
       top: -15px;
       left: -15px;
     }
-    &::after {
+
+    wrap-image::after {
       bottom: -15px;
       right: -15px;
     }
-    &:hover {
-      &::before {
+
+    wrap-image:hover {
+      wrap-image::before {
         top: 15px;
         left: 15px;
       }
-      &::after {
+      
+      wrap-image::after {
         bottom: 15px;
         right: 15px;
       }
     }
   }
-  
