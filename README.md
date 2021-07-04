@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <style>
-
-</style>
-
 html {
   width: 100%;
   height: 100%;
@@ -46,7 +43,6 @@ html {
     }
   }
 }
-
 </style>
 
 <div class="wrap-image">
