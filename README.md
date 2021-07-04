@@ -1,16 +1,5 @@
 ### Hi there 👋
 
----
-output: 
-  html_document:
-     css: Effects.css
-     self_contained: no
-     
----
-<div class="wrap-image">
-  <img src="https://avatars.githubusercontent.com/u/43869232?v=4" alt="">
-</div>
-
 <!--
 **Shuzhengz/Shuzhengz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
