@@ -1,8 +1,18 @@
-<link href="Effects.css" rel="stylesheet" type="text/css" />
+<style>
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom right, #0d1117, #2224bf);
+  color: #fff;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+}
+</style>
 
-<div class="wrap-image">
-  <img width=200px height=200px src="https://avatars.githubusercontent.com/u/43869232?v=4" alt="Profile Picture">
-</div>
+- Im currently working on a few projects using Java and C++
+- Also a robot programmer in FRC team 1678
 
 <!--
 **Shuzhengz/Shuzhengz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
