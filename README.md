@@ -3,7 +3,7 @@
 I'm Tom Zhang, a senior in High School
 
 - :computer: Fedora Linux / Vim / IntelliJ / Android
-- :fountain_pen: :earning: Go / Lisp / Clojure
+- :fountain_pen: Learning: Go / Lisp / Clojure
 - :earth_asia: Firefox / Gecko / Qwant
 - :man: Pronouns: he/him
 
