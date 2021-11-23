@@ -3,9 +3,12 @@
 I'm Tom Zhang, a senior in High School
 
 - :computer: Fedora Linux / Vim / IntelliJ / Android
+- :fountain_pen: :earning: Go / Lisp / Clojure
 - :earth_asia: Firefox / Gecko / Qwant
 - :man: Pronouns: he/him
-- :fountain_pen: learning Go / Lisp / Clojure
+
+
+#
 
 #### :bar_chart: My top used languages
 
@@ -16,7 +19,6 @@ C / C++       ████████████▒░░░░░░░░░
 Javascript    ████████▓░░░░░░░░░░░░░░
 Rust          ███████▓░░░░░░░░░░░░░░░
 Python        ██████▒░░░░░░░░░░░░░░░░
-HTML & CSS    █████░░░░░░░░░░░░░░░░░░
 Others        ███▒░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
