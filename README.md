@@ -4,7 +4,7 @@ I'm Tom Zhang, a senior in High School
 
 - :computer: Fedora Linux / Vim / IntelliJ / Android
 - :fountain_pen: Learning: Go / Lisp / Clojure
-- :earth_asia: Waterfox / Gecko / Qwant
+- :earth_asia: Waterfox / Qwant
 - :man: Pronouns: he/him
 
 
