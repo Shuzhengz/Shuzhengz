@@ -2,7 +2,7 @@
   
 I'm Tom Zhang, currently a high school senior.
 
-I'm a Backend/Embedded developer, but also do some front end stuff sometimes.
+I'm a Backend/Embedded developer, but also do front end stuff sometimes.
 
 - :computer: Using: Fedora Linux / Vim / IntelliJ / Android
 - :fountain_pen: Learning: Go / Lisp / Clojure
