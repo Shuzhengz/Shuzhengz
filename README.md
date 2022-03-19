@@ -22,3 +22,5 @@ Rust          ██████▓░░░░░░░░░░░░░░░
 Others        ███▒░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
+
+(and also English)
