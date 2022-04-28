@@ -7,7 +7,7 @@ I'm a Backend/Embedded developer, but also do front end stuff sometimes.
 - :computer: Using: Fedora Linux / Android
 - :fountain_pen: Learning: Go / Lisp / Clojure
 - :man: Pronouns: he/him
-- :earth_asia: [Github Profile Page](https://github.com/Shuzhengz)
+- :earth_asia: [Website](https://github.com/Shuzhengz)
 
 #
 
