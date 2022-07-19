@@ -23,4 +23,4 @@ Others        ███▒░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-(and also English)
+(and also English of course)
