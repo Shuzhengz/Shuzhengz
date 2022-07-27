@@ -17,8 +17,8 @@ I'm a Backend/Embedded developer, but also do front end stuff sometimes.
 ```text
 Java          ████████████▒░░░░░░░░░
 C / C++       ███████████▒░░░░░░░░░░
-Javascript    ███████▓░░░░░░░░░░░░░░
-Rust          ██████▓░░░░░░░░░░░░░░░
+Rust          ███████▓░░░░░░░░░░░░░░
+JavaScript    ██████▓░░░░░░░░░░░░░░░
 Others        ███▒░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
