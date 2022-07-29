@@ -5,7 +5,7 @@ I'm Tom Zhang, currently a student at UC San Diego
 I'm a Backend/Embedded developer, but also do front end stuff sometimes.
 
 - :computer: Using: Fedora Linux / Android
-- :fountain_pen: Learning: Go / Lisp / Clojure
+- :fountain_pen: Learning: Go / Clojure
 - :man: Pronouns: he/him
 - :earth_asia: [Website](https://github.com/Shuzhengz)
 
