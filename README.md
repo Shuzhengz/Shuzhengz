@@ -5,7 +5,7 @@ I'm Tom Zhang, currently a Computer Engineering student at UC San Diego
 I'm a Backend/Embedded developer, but also do front end stuff sometimes.
 
 - :computer: Using: Fedora Linux / Android / Some Windows
-- :fountain_pen: Learning: Assembly / Clojure
+- :fountain_pen: Learning: Clojure
 - :earth_asia: [Website](https://github.com/Shuzhengz), [500px](https://500px.com/p/shuzhengz)
 
 #
@@ -14,8 +14,9 @@ I'm a Backend/Embedded developer, but also do front end stuff sometimes.
 
 <!--START_SECTION:waka-->
 ```text
-Java          ████████████▒░░░░░░░░░
-C / C++       ███████████▒░░░░░░░░░░
+Java          ██████████████▒░░░░░░░
+C / C++       ████████████▒░░░░░░░░░
+Assembly      ███████████▒░░░░░░░░░░
 Rust          ███████▓░░░░░░░░░░░░░░
 JavaScript    ██████▓░░░░░░░░░░░░░░░
 Others        ███▒░░░░░░░░░░░░░░░░░░
