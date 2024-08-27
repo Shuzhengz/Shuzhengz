@@ -14,8 +14,8 @@ I'm a Backend/Embedded developer, but also do front end stuff sometimes.
 
 <!--START_SECTION:waka-->
 ```text
-Java          ██████████████▒░░░░░░░
-C / C++       ████████████▒░░░░░░░░░
+C / C++       ██████████████▒░░░░░░░
+Java          ████████████▒░░░░░░░░░
 Assembly      ███████████▒░░░░░░░░░░
 Rust          ███████▓░░░░░░░░░░░░░░
 JavaScript    ██████▓░░░░░░░░░░░░░░░
