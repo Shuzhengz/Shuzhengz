@@ -6,7 +6,7 @@ I'm a Backend/Embedded developer, but also do front end stuff sometimes.
 
 - :computer: Using: Fedora Linux / Android / Some Windows
 - :fountain_pen: Learning: Clojure
-- :earth_asia: [Website](https://github.com/Shuzhengz), [500px](https://500px.com/p/shuzhengz)
+- :earth_asia: [Website](https://github.com/Shuzhengz) (It's just GitHub), [500px](https://500px.com/p/shuzhengz)
 
 #
 
